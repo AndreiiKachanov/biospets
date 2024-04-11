@@ -1,1 +1,1 @@
-Creating a blog on Laravel 5.6 - https://biospets.com/analyses/
+Creating a catalog of laboratory analyzes using Laravel 5.6.
